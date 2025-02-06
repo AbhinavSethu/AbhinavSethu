@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💫 About Me:<br>I am an aspiring software developer currently pursuing a B.Tech in Information Technology. Passionate about coding and problem-solving, I am eager to build innovative solutions and enhance my technical skills. With a strong foundation in programming and a keen interest in software development, I am constantly exploring new technologies to stay ahead in the field. I am driven to contribute effectively to projects and grow as a professional in the tech industry.</p>
+<p align="right">💫 About Me:<br>I am an aspiring software developer currently pursuing a B.Tech in Information Technology. Passionate about coding and problem-solving, I am eager to build innovative solutions and enhance my technical skills. With a strong foundation in programming and a keen interest in software development, I am constantly exploring new technologies to stay ahead in the field. I am driven to contribute effectively to projects and grow as a professional in the tech industry.</p>
 
 ###
 
