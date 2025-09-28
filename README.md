@@ -17,10 +17,9 @@ Software and Algorithm Developer with expertise in designing scalable solutions,
 
 ## Professional Presence
 
-* [LinkedIn](https://linkedin.com/in/AbhinavSethu)
+* [LinkedIn](https://linkedin.com/in/abhinav-sethu-dev/)
 * [Email](mailto:abhinavsethu2005@gmail.com)
-* [X (Twitter)](https://x.com/AbhinavSethu)
-* [Instagram](https://instagram.com/abhinav_sethu)
+* [X (Twitter)](https://x.com/abhinav_sethu)
 
 ---
 
