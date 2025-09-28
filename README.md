@@ -36,5 +36,5 @@ Software and Algorithm Developer with expertise in designing scalable solutions,
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/AbhinavSethu/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=AbhinavSethu)
 
