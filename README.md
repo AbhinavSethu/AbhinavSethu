@@ -1,6 +1,5 @@
 # Abhinav Sethu
 
-## Profile
 
 Software and Algorithm Developer with expertise in designing scalable solutions, optimizing performance, and building intelligent systems. Skilled in full-stack engineering, data-driven applications, and cloud infrastructure. Committed to solving complex business challenges through innovation, precision, and technology leadership.
 
