@@ -18,7 +18,6 @@ Software and Algorithm Developer with expertise in designing scalable solutions,
 ## Professional Presence
 
 * [LinkedIn](https://linkedin.com/in/abhinav-sethu-dev/)
-* [Email](mailto:abhinavsethu2005@gmail.com)
 * [X (Twitter)](https://x.com/abhinav_sethu)
 
 ---
@@ -37,4 +36,5 @@ Software and Algorithm Developer with expertise in designing scalable solutions,
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=AbhinavSethu\&icon=0\&color=0)
+![Visitor Count](https://profile-counter.glitch.me/AbhinavSethu/count.svg)
+
