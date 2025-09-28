@@ -1,4 +1,5 @@
-# Abhinav Sethu
+# Abhinav Sethu 
+![Visitor Count](https://komarev.com/ghpvc/?username=AbhinavSethu)
 
 
 Software and Algorithm Developer with expertise in designing scalable solutions, optimizing performance, and building intelligent systems. Skilled in full-stack engineering, data-driven applications, and cloud infrastructure. Committed to solving complex business challenges through innovation, precision, and technology leadership.
@@ -35,6 +36,4 @@ Software and Algorithm Developer with expertise in designing scalable solutions,
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbhinavSethu\&theme=flat\&no-frame=true\&no-bg=true\&margin-w=4)
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AbhinavSethu)
 
